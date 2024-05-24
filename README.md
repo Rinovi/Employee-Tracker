@@ -28,6 +28,6 @@ In order to use the application I would recommend to start by traversing into th
 Upon selecting any of the actions, simply follow any instructions to complete the action, or simply view the displayed database tables.
 
 * The following video is a demonstrational video showcasing the functionality of the Employee Tracker application :
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pXT_1XsMwtA/0.jpg)](https://www.youtube.com/watch?v=pXT_1XsMwtA)
 ## Credits
 
