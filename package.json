@@ -1,0 +1,14 @@
+{
+    "name": "your_project_name",
+    "version": "1.0.0",
+    "description": "A Node.js application using Inquirer and PostgreSQL",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "pg": "^8.7.1",
+      "inquirer": "^8.2.4",
+      "console.table": "^0.10.0"
+    }
+  }
